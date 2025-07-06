@@ -421,6 +421,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: support@your-domain.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/AI-Powered-Meeting-Minutes-Generator/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/AI-Powered-Meeting-Minutes-Generator/wiki)
+- 📧 Email: sajidrahman@dal.ca
